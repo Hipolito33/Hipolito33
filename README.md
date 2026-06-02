@@ -6,7 +6,7 @@
 
 - HTML/CSS
 - Javascript
-- Git / GitHub
+- Git & GitHub
 - SQL
 - Python (em aprendizado)
 
@@ -14,7 +14,7 @@
 ## 📂 Projetos
 
 ### 🎈 Jogo do Balão
-Projeto em Python utilizando Turtle.
+Projeto desenvolvido em Python utilizando a biblioteca Turtle para praticar lógica de programação e manipulação gráfica.
 
 
 ## 📈 Atualmente estudando
@@ -22,7 +22,7 @@ Projeto em Python utilizando Turtle.
 - Python
 - Estruturas de Dados
 - Banco de Dados
-- Desenvolvimento Web
+- Desenvolvimento Web Full-Stack
 
 
 ## 🎯 Próximos Projetos
@@ -36,3 +36,6 @@ Projeto em Python utilizando Turtle.
 
 - LinkedIn: https://www.linkedin.com/in/hipolitodev/
 - GitHub: @Hipolito33
+
+
+💡 Buscando evoluir constantemente em desenvolvimento de software, construindo projetos práticos e expandindo conhecimentos em programação e tecnologia.
