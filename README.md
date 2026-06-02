@@ -25,6 +25,13 @@ Projeto em Python utilizando Turtle.
 - Desenvolvimento Web
 
 
+## 🎯 Próximos Projetos
+
+- 📊 Calculadora Financeira
+- 📦 Sistema de Cadastro de Alunos
+- 🌐 Site Portfólio Pessoal
+
+
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/hipolitodev/
