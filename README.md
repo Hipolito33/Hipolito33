@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Arthur Hipólito 👋
 
-<!--
-**Hipolito33/Hipolito33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento Web Full-Stack
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Javascript
+- Git / GitHub
+- SQL
+- HTML/CSS
+- Python (em aprendizado
+
+
+## 📂 Projetos
+
+### 🎈 Jogo do Balão
+Projeto em Python utilizando Turtle.
+
+
+## 📈 Atualmente estudando
+
+- Python
+- Estruturas de Dados
+- Banco de Dados
+- Desenvolvimento Web
+
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/hipolitodev/
+- GitHub: @Hipolito33
