@@ -4,11 +4,11 @@
 
 ## 🚀 Tecnologias
 
+- HTML/CSS
 - Javascript
 - Git / GitHub
 - SQL
-- HTML/CSS
-- Python (em aprendizado
+- Python (em aprendizado)
 
 
 ## 📂 Projetos
